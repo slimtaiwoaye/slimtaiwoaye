@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ayegbusi taiwo
+- 👋 Hi, I’m Ayegbusi taiwo
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning SQL,POWER BI
 - 💞️ I’m looking to collaborate on WORK ON PROJECT WITH TABLEAU
